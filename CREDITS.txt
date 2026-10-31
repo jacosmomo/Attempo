@@ -1,0 +1,7 @@
+Crediti
+
+I suoni di batteria di questa app derivano da SM Drums (versione 1.2),
+registrati da Scott McLean, con Tod Stillwell e Suleiman Ali.
+Sono stati convertiti in formato AAC e ridotti nel numero di campioni.
+
+Fonte: https://sfzinstruments.github.io/drums/sm_drums
