@@ -456,6 +456,158 @@
      ]
     }
    ]
+  },
+  "foot": {
+   "layers": [
+    {
+     "vel": 0.016,
+     "files": [
+      "foot_0_0.m4a",
+      "foot_0_1.m4a",
+      "foot_0_2.m4a",
+      "foot_0_3.m4a"
+     ]
+    },
+    {
+     "vel": 0.146,
+     "files": [
+      "foot_1_0.m4a",
+      "foot_1_1.m4a",
+      "foot_1_2.m4a",
+      "foot_1_3.m4a"
+     ]
+    },
+    {
+     "vel": 0.311,
+     "files": [
+      "foot_2_0.m4a",
+      "foot_2_1.m4a",
+      "foot_2_2.m4a",
+      "foot_2_3.m4a"
+     ]
+    },
+    {
+     "vel": 0.437,
+     "files": [
+      "foot_3_0.m4a",
+      "foot_3_1.m4a",
+      "foot_3_2.m4a",
+      "foot_3_3.m4a"
+     ]
+    },
+    {
+     "vel": 0.571,
+     "files": [
+      "foot_4_0.m4a",
+      "foot_4_1.m4a",
+      "foot_4_2.m4a",
+      "foot_4_3.m4a"
+     ]
+    },
+    {
+     "vel": 0.697,
+     "files": [
+      "foot_5_0.m4a",
+      "foot_5_1.m4a",
+      "foot_5_2.m4a",
+      "foot_5_3.m4a"
+     ]
+    },
+    {
+     "vel": 0.862,
+     "files": [
+      "foot_6_0.m4a",
+      "foot_6_1.m4a",
+      "foot_6_2.m4a",
+      "foot_6_3.m4a"
+     ]
+    },
+    {
+     "vel": 0.988,
+     "files": [
+      "foot_7_0.m4a",
+      "foot_7_1.m4a",
+      "foot_7_2.m4a",
+      "foot_7_3.m4a"
+     ]
+    }
+   ]
+  },
+  "bell": {
+   "layers": [
+    {
+     "vel": 0.024,
+     "files": [
+      "bell_0_0.m4a",
+      "bell_0_1.m4a",
+      "bell_0_2.m4a",
+      "bell_0_3.m4a"
+     ]
+    },
+    {
+     "vel": 0.161,
+     "files": [
+      "bell_1_0.m4a",
+      "bell_1_1.m4a",
+      "bell_1_2.m4a",
+      "bell_1_3.m4a"
+     ]
+    },
+    {
+     "vel": 0.291,
+     "files": [
+      "bell_2_0.m4a",
+      "bell_2_1.m4a",
+      "bell_2_2.m4a",
+      "bell_2_3.m4a"
+     ]
+    },
+    {
+     "vel": 0.421,
+     "files": [
+      "bell_3_0.m4a",
+      "bell_3_1.m4a",
+      "bell_3_2.m4a",
+      "bell_3_3.m4a"
+     ]
+    },
+    {
+     "vel": 0.594,
+     "files": [
+      "bell_4_0.m4a",
+      "bell_4_1.m4a",
+      "bell_4_2.m4a",
+      "bell_4_3.m4a"
+     ]
+    },
+    {
+     "vel": 0.724,
+     "files": [
+      "bell_5_0.m4a",
+      "bell_5_1.m4a",
+      "bell_5_2.m4a",
+      "bell_5_3.m4a"
+     ]
+    },
+    {
+     "vel": 0.854,
+     "files": [
+      "bell_6_0.m4a",
+      "bell_6_1.m4a",
+      "bell_6_2.m4a",
+      "bell_6_3.m4a"
+     ]
+    },
+    {
+     "vel": 0.984,
+     "files": [
+      "bell_7_0.m4a",
+      "bell_7_1.m4a",
+      "bell_7_2.m4a",
+      "bell_7_3.m4a"
+     ]
+    }
+   ]
   }
  }
 }
