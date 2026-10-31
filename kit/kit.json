@@ -1,0 +1,461 @@
+{
+ "name": "SM Drums",
+ "instruments": {
+  "kick": {
+   "layers": [
+    {
+     "vel": 0.012,
+     "files": [
+      "kick_0_0.m4a",
+      "kick_0_1.m4a",
+      "kick_0_2.m4a",
+      "kick_0_3.m4a"
+     ]
+    },
+    {
+     "vel": 0.138,
+     "files": [
+      "kick_1_0.m4a",
+      "kick_1_1.m4a",
+      "kick_1_2.m4a",
+      "kick_1_3.m4a"
+     ]
+    },
+    {
+     "vel": 0.295,
+     "files": [
+      "kick_2_0.m4a",
+      "kick_2_1.m4a",
+      "kick_2_2.m4a",
+      "kick_2_3.m4a"
+     ]
+    },
+    {
+     "vel": 0.421,
+     "files": [
+      "kick_3_0.m4a",
+      "kick_3_1.m4a",
+      "kick_3_2.m4a",
+      "kick_3_3.m4a"
+     ]
+    },
+    {
+     "vel": 0.579,
+     "files": [
+      "kick_4_0.m4a",
+      "kick_4_1.m4a",
+      "kick_4_2.m4a",
+      "kick_4_3.m4a"
+     ]
+    },
+    {
+     "vel": 0.705,
+     "files": [
+      "kick_5_0.m4a",
+      "kick_5_1.m4a",
+      "kick_5_2.m4a",
+      "kick_5_3.m4a"
+     ]
+    },
+    {
+     "vel": 0.862,
+     "files": [
+      "kick_6_0.m4a",
+      "kick_6_1.m4a",
+      "kick_6_2.m4a",
+      "kick_6_3.m4a"
+     ]
+    },
+    {
+     "vel": 0.988,
+     "files": [
+      "kick_7_0.m4a",
+      "kick_7_1.m4a",
+      "kick_7_2.m4a",
+      "kick_7_3.m4a"
+     ]
+    }
+   ]
+  },
+  "snare": {
+   "layers": [
+    {
+     "vel": 0.012,
+     "files": [
+      "snare_0_0.m4a",
+      "snare_0_1.m4a",
+      "snare_0_2.m4a",
+      "snare_0_3.m4a"
+     ]
+    },
+    {
+     "vel": 0.161,
+     "files": [
+      "snare_1_0.m4a",
+      "snare_1_1.m4a",
+      "snare_1_2.m4a",
+      "snare_1_3.m4a"
+     ]
+    },
+    {
+     "vel": 0.28,
+     "files": [
+      "snare_2_0.m4a",
+      "snare_2_1.m4a",
+      "snare_2_2.m4a",
+      "snare_2_3.m4a"
+     ]
+    },
+    {
+     "vel": 0.429,
+     "files": [
+      "snare_3_0.m4a",
+      "snare_3_1.m4a",
+      "snare_3_2.m4a",
+      "snare_3_3.m4a"
+     ]
+    },
+    {
+     "vel": 0.571,
+     "files": [
+      "snare_4_0.m4a",
+      "snare_4_1.m4a",
+      "snare_4_2.m4a",
+      "snare_4_3.m4a"
+     ]
+    },
+    {
+     "vel": 0.717,
+     "files": [
+      "snare_5_0.m4a",
+      "snare_5_1.m4a",
+      "snare_5_2.m4a",
+      "snare_5_3.m4a"
+     ]
+    },
+    {
+     "vel": 0.835,
+     "files": [
+      "snare_6_0.m4a",
+      "snare_6_1.m4a",
+      "snare_6_2.m4a",
+      "snare_6_3.m4a"
+     ]
+    },
+    {
+     "vel": 0.988,
+     "files": [
+      "snare_7_0.m4a",
+      "snare_7_1.m4a",
+      "snare_7_2.m4a",
+      "snare_7_3.m4a"
+     ]
+    }
+   ]
+  },
+  "sidestick": {
+   "layers": [
+    {
+     "vel": 0.016,
+     "files": [
+      "sidestick_0_0.m4a",
+      "sidestick_0_1.m4a",
+      "sidestick_0_2.m4a",
+      "sidestick_0_3.m4a"
+     ]
+    },
+    {
+     "vel": 0.157,
+     "files": [
+      "sidestick_1_0.m4a",
+      "sidestick_1_1.m4a",
+      "sidestick_1_2.m4a",
+      "sidestick_1_3.m4a"
+     ]
+    },
+    {
+     "vel": 0.295,
+     "files": [
+      "sidestick_2_0.m4a",
+      "sidestick_2_1.m4a",
+      "sidestick_2_2.m4a",
+      "sidestick_2_3.m4a"
+     ]
+    },
+    {
+     "vel": 0.437,
+     "files": [
+      "sidestick_3_0.m4a",
+      "sidestick_3_1.m4a",
+      "sidestick_3_2.m4a",
+      "sidestick_3_3.m4a"
+     ]
+    },
+    {
+     "vel": 0.575,
+     "files": [
+      "sidestick_4_0.m4a",
+      "sidestick_4_1.m4a",
+      "sidestick_4_2.m4a",
+      "sidestick_4_3.m4a"
+     ]
+    },
+    {
+     "vel": 0.717,
+     "files": [
+      "sidestick_5_0.m4a",
+      "sidestick_5_1.m4a",
+      "sidestick_5_2.m4a",
+      "sidestick_5_3.m4a"
+     ]
+    },
+    {
+     "vel": 0.846,
+     "files": [
+      "sidestick_6_0.m4a",
+      "sidestick_6_1.m4a",
+      "sidestick_6_2.m4a",
+      "sidestick_6_3.m4a"
+     ]
+    },
+    {
+     "vel": 0.988,
+     "files": [
+      "sidestick_7_0.m4a",
+      "sidestick_7_1.m4a",
+      "sidestick_7_2.m4a",
+      "sidestick_7_3.m4a"
+     ]
+    }
+   ]
+  },
+  "hatc": {
+   "layers": [
+    {
+     "vel": 0.008,
+     "files": [
+      "hatc_0_0.m4a",
+      "hatc_0_1.m4a",
+      "hatc_0_2.m4a",
+      "hatc_0_3.m4a"
+     ]
+    },
+    {
+     "vel": 0.15,
+     "files": [
+      "hatc_1_0.m4a",
+      "hatc_1_1.m4a",
+      "hatc_1_2.m4a",
+      "hatc_1_3.m4a"
+     ]
+    },
+    {
+     "vel": 0.295,
+     "files": [
+      "hatc_2_0.m4a",
+      "hatc_2_1.m4a",
+      "hatc_2_2.m4a",
+      "hatc_2_3.m4a"
+     ]
+    },
+    {
+     "vel": 0.441,
+     "files": [
+      "hatc_3_0.m4a",
+      "hatc_3_1.m4a",
+      "hatc_3_2.m4a",
+      "hatc_3_3.m4a"
+     ]
+    },
+    {
+     "vel": 0.567,
+     "files": [
+      "hatc_4_0.m4a",
+      "hatc_4_1.m4a",
+      "hatc_4_2.m4a",
+      "hatc_4_3.m4a"
+     ]
+    },
+    {
+     "vel": 0.705,
+     "files": [
+      "hatc_5_0.m4a",
+      "hatc_5_1.m4a",
+      "hatc_5_2.m4a",
+      "hatc_5_3.m4a"
+     ]
+    },
+    {
+     "vel": 0.85,
+     "files": [
+      "hatc_6_0.m4a",
+      "hatc_6_1.m4a",
+      "hatc_6_2.m4a",
+      "hatc_6_3.m4a"
+     ]
+    },
+    {
+     "vel": 0.996,
+     "files": [
+      "hatc_7_0.m4a",
+      "hatc_7_1.m4a",
+      "hatc_7_2.m4a",
+      "hatc_7_3.m4a"
+     ]
+    }
+   ]
+  },
+  "hato": {
+   "layers": [
+    {
+     "vel": 0.035,
+     "files": [
+      "hato_0_0.m4a",
+      "hato_0_1.m4a",
+      "hato_0_2.m4a",
+      "hato_0_3.m4a"
+     ]
+    },
+    {
+     "vel": 0.181,
+     "files": [
+      "hato_1_0.m4a",
+      "hato_1_1.m4a",
+      "hato_1_2.m4a",
+      "hato_1_3.m4a"
+     ]
+    },
+    {
+     "vel": 0.323,
+     "files": [
+      "hato_2_0.m4a",
+      "hato_2_1.m4a",
+      "hato_2_2.m4a",
+      "hato_2_3.m4a"
+     ]
+    },
+    {
+     "vel": 0.465,
+     "files": [
+      "hato_3_0.m4a",
+      "hato_3_1.m4a",
+      "hato_3_2.m4a",
+      "hato_3_3.m4a"
+     ]
+    },
+    {
+     "vel": 0.535,
+     "files": [
+      "hato_4_0.m4a",
+      "hato_4_1.m4a",
+      "hato_4_2.m4a",
+      "hato_4_3.m4a"
+     ]
+    },
+    {
+     "vel": 0.677,
+     "files": [
+      "hato_5_0.m4a",
+      "hato_5_1.m4a",
+      "hato_5_2.m4a",
+      "hato_5_3.m4a"
+     ]
+    },
+    {
+     "vel": 0.819,
+     "files": [
+      "hato_6_0.m4a",
+      "hato_6_1.m4a",
+      "hato_6_2.m4a",
+      "hato_6_3.m4a"
+     ]
+    },
+    {
+     "vel": 0.965,
+     "files": [
+      "hato_7_0.m4a",
+      "hato_7_1.m4a",
+      "hato_7_2.m4a",
+      "hato_7_3.m4a"
+     ]
+    }
+   ]
+  },
+  "ride": {
+   "layers": [
+    {
+     "vel": 0.024,
+     "files": [
+      "ride_0_0.m4a",
+      "ride_0_1.m4a",
+      "ride_0_2.m4a",
+      "ride_0_3.m4a"
+     ]
+    },
+    {
+     "vel": 0.161,
+     "files": [
+      "ride_1_0.m4a",
+      "ride_1_1.m4a",
+      "ride_1_2.m4a",
+      "ride_1_3.m4a"
+     ]
+    },
+    {
+     "vel": 0.291,
+     "files": [
+      "ride_2_0.m4a",
+      "ride_2_1.m4a",
+      "ride_2_2.m4a",
+      "ride_2_3.m4a"
+     ]
+    },
+    {
+     "vel": 0.421,
+     "files": [
+      "ride_3_0.m4a",
+      "ride_3_1.m4a",
+      "ride_3_2.m4a",
+      "ride_3_3.m4a"
+     ]
+    },
+    {
+     "vel": 0.594,
+     "files": [
+      "ride_4_0.m4a",
+      "ride_4_1.m4a",
+      "ride_4_2.m4a",
+      "ride_4_3.m4a"
+     ]
+    },
+    {
+     "vel": 0.724,
+     "files": [
+      "ride_5_0.m4a",
+      "ride_5_1.m4a",
+      "ride_5_2.m4a",
+      "ride_5_3.m4a"
+     ]
+    },
+    {
+     "vel": 0.854,
+     "files": [
+      "ride_6_0.m4a",
+      "ride_6_1.m4a",
+      "ride_6_2.m4a",
+      "ride_6_3.m4a"
+     ]
+    },
+    {
+     "vel": 0.984,
+     "files": [
+      "ride_7_0.m4a",
+      "ride_7_1.m4a",
+      "ride_7_2.m4a",
+      "ride_7_3.m4a"
+     ]
+    }
+   ]
+  }
+ }
+}
